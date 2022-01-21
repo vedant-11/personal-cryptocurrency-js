@@ -1,0 +1,10 @@
+{
+  "chainId": 101,
+  "address": "2q6aqJBkDXEZjpTinoYwSch3NrxbRw5ZrxyerJfzq57C",
+  "symbol": "Icoin",
+  "name": "instinctcoin",
+  "decimals": "",
+  "logoURI": "the CDN link to your token's image",
+  "tags": ["tags_if_any"],
+  "extensions": {}
+}
